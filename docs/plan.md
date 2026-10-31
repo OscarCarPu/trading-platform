@@ -16,7 +16,7 @@
 ### Checks 
 
 - [ ] Investigate and decide data sources 
-- [ ] Mount architecture basic 
+- [x] Mount architecture basic 
 - [ ] First orchestration spark raw data
 - [ ] Orchestration pipelines processing data 
 - [ ] First exploratory basic queries 
